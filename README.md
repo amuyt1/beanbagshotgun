@@ -1,6 +1,8 @@
 # beanbagshotgun
 Simple BeanBag Shotgun For Fivem :)
 
+This replaces the basegame shotgun w_sg_pumpshotgun
+
 
 Add this into your qb-core/shared/items.lua
 
