@@ -3,12 +3,9 @@ Simple BeanBag Shotgun For Fivem :)
 
 This replaces the basegame shotgun w_sg_pumpshotgun, if you dont want it to replace just change the names in the correct files
 
+I made this morely for ox_inventory, majority of it is the same when adding it into qbcore/shared/weapons/items
 
-Add this into your qb-core/shared/items.lua
-
-['weapon_beanbag'] 				= {['name'] = 'weapon_beanbag', 	 			  	       ['label'] = 'Beanbag M870', 		    ['weight'] = 1000, 		['type'] = 'weapon', 	['ammotype'] = 'AMMO_BEANBAG',			           ['image'] = 'weapon_beanbagshotgun.png',  ['unique'] = true, 		['useable'] = false,["created"] = nil,	['description'] = 'A Non-Lethal Bean Bag Shotgun.'},
-
-or Add this into your ox_inventory/data/weapons.lua
+ Add this into your ox_inventory/data/weapons.lua
 
 ['WEAPON_BEANBAG'] = {
 			label = 'Bean Bag Shotgun',
