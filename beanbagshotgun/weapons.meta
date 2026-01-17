@@ -28,8 +28,8 @@
 						<HitBoat>DONTCARE</HitBoat>
 						<HitPlane>DONTCARE</HitPlane>
 					</Explosion>
-					<FireType>DELAYED_HIT</FireType>
-					<WheelSlot>WHEEL_PISTOL</WheelSlot>
+					<FireType>INSTANT_HIT</FireType>
+					<WheelSlot>WHEEL_SHOTGUN</WheelSlot>
 					<Group>GROUP_SHOTGUN</Group>
 					<AmmoInfo ref="AMMO_SHOTGUN"/>
 					<AimingInfo ref="RIFLE_LO_PUMP_STRAFE"/>
@@ -261,4 +261,5 @@
 	</Infos>
 	<Name>DLC - Beanbag Shotgun</Name>
 </CWeaponInfoBlob>
+
 
