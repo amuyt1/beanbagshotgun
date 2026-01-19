@@ -1,4 +1,4 @@
-# beanbagshotgun
+# beanbagshotgun by amu
 Simple BeanBag Shotgun For Fivem :)
 
 This replaces the basegame shotgun w_sg_pumpshotgun, if you dont want it to replace just change the names in the correct files
